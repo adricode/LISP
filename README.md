@@ -1,7 +1,5 @@
 # ,\ L ,\ I ,\ S ,\ P ,\
 
-Getting into symbolic computation with LISt Processor (LISP).
-
 LISP is a functional programming language developed by John McCarthy in 1958, who explained its design with a paper in Communications of the ACM<sup>[1]</sup> later.
 
 It was inspired by the lambda calculus (__λ-calculus__)<sup>[2]</sup>, a formal system composed of rules that define expressions (λ-expressions) evaluated on variables as arguments. 
