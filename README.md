@@ -10,13 +10,17 @@ An example of AND function<sup>[4]</sup>:
 
 <img align="left" src="images/and.jpg" width="400"/>
 
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## How it goes...
 
-================
 
-_~ Results of a function that counts the number of atoms in an expression_<sup>[5]</sup>: [code]()
+_Results of a function that counts the number of atoms in an expression_<sup>[5]</sup>: [code](https://github.com/adricode/LISP/blob/master/code/count-atoms.lisp)
 
  <img align="left" src="images/count-atoms.jpg" width="400"/>
 
